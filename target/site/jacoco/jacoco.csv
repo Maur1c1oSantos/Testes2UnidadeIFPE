@@ -1,0 +1,27 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+integracao,com.ifpe.emprestimo,ControladorEmprestimo,0,22,0,0,0,6,0,4,0,4
+integracao,com.ifpe.emprestimo,Emprestimo,0,33,0,0,0,14,0,7,0,7
+integracao,com.ifpe.item,ControladorItem,0,18,0,0,0,5,0,3,0,3
+integracao,com.ifpe.item,Item,0,23,0,0,0,10,0,5,0,5
+integracao,com.ifpe.ado.emprestimo,RepositorioEmprestimo,72,109,2,2,9,40,2,4,0,4
+integracao,com.ifpe.ado.item,RepositorioItem,32,90,0,0,4,29,0,3,0,3
+integracao,com.ifpe.ts.testes.piramide,App,7,0,0,0,3,0,2,0,2,0
+integracao,com.ifpe.facade,Facade,0,52,0,0,0,12,0,8,0,8
+integracao,com.ifpe.ado.professor,RepositorioProfessor,32,88,0,0,4,29,0,3,0,3
+integracao,com.ifpe.conexaodb,Banco,0,14,0,0,0,5,0,3,0,3
+integracao,com.ifpe.excecoes,TelefoneInvalidoException,0,4,0,0,0,2,0,1,0,1
+integracao,com.ifpe.excecoes,SiapeInvalidoException,0,4,0,0,0,2,0,1,0,1
+integracao,com.ifpe.view,Frame.new ActionListener() {...},69,0,4,0,17,0,4,0,2,0
+integracao,com.ifpe.view,Frame.new ActionListener() {...},25,0,2,0,9,0,3,0,2,0
+integracao,com.ifpe.view,GuiUtils,172,0,0,0,36,0,16,0,16,0
+integracao,com.ifpe.view,Frame.new ActionListener() {...},33,0,2,0,8,0,3,0,2,0
+integracao,com.ifpe.view,Frame.new ActionListener() {...},118,0,8,0,27,0,6,0,2,0
+integracao,com.ifpe.view,Frame.new ActionListener() {...},25,0,2,0,9,0,3,0,2,0
+integracao,com.ifpe.view,BackgrpundPane,3,0,0,0,1,0,1,0,1,0
+integracao,com.ifpe.view,Frame.MenuAction,15,0,0,0,5,0,2,0,2,0
+integracao,com.ifpe.view,Frame.new ActionListener() {...},65,0,2,0,18,0,3,0,2,0
+integracao,com.ifpe.view,Frame,584,0,0,0,126,0,9,0,9,0
+integracao,com.ifpe.professor,ControladorProfessor,0,18,0,0,0,5,0,3,0,3
+integracao,com.ifpe.professor,Professor,0,82,0,8,0,28,0,14,0,10
+integracao,com.ifpe.utils,Constantes,6,9,0,0,2,4,1,1,1,1
+integracao,com.ifpe.utils,DbUtils,16,87,0,6,2,25,0,9,0,6
